@@ -1,0 +1,13 @@
+https://www.sciencedirect.com/topics/engineering/orbit-formula#:~:text=The%20orbit%20formula%2C%20r%20%3D%20(,as%20a%20function%20of%20time.
+https://www.britannica.com/science/anomaly-astronomy
+https://physics.princeton.edu//~fpretori/Nbody/intro.htm
+https://ui.adsabs.harvard.edu/abs/1979ApJ...228..664A/similar
+https://www.youtube.com/watch?v=DoLe1c-eokI&ab_channel=a2flo
+https://en.wikipedia.org/wiki/N-body_simulation
+https://articles.adsabs.harvard.edu/pdf/1978IAUS...79..189A
+https://www.britannica.com/science/celestial-mechanics-physics/The-n-body-problem  errors
+https://beltoforion.de/en/barnes-hut-galaxy-simulator/
+https://www.cs.princeton.edu/courses/archive/fall04/cos126/assignments/nbody.html
+https://jheer.github.io/barnes-hut/
+https://medium.com/swlh/create-your-own-n-body-simulation-with-matlab-22344954228e
+http://arborjs.org/docs/barnes-hut
